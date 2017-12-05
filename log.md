@@ -15,12 +15,12 @@ My best time to think is while running. During my 5 mile run today during lunch,
 
   Studied HealthKit framework for two hours. Very complex...
 
-  ### Day 1: December 5, 2017
+### Day 1: December 5, 2017
 
-  **Today's Plan**:
+**Today's Plan**:
     * Mock up a quick prototype to pull some data characteristic and sample (weight) data out of HealthKit
     * Design app front end - Not part of 100 hours.
 
-  **Today's Progress**:
+**Today's Progress**:
 
-  **Thoughts:**
+**Thoughts:**

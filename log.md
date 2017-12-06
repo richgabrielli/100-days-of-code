@@ -22,5 +22,9 @@ My best time to think is while running. During my 5 mile run today during lunch,
     * Design app front end - Not part of 100 hours.
 
 **Today's Progress**:
+    * Pulled weights out of HealthKit. Nothing pretty, but data is back and in an array.
+
+    ![Image of Protype / Proof of Concept]
+    (https://richgabrielli.github.io/images/HealthKit-Proto.jpg)
 
 **Thoughts:**

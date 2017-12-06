@@ -26,4 +26,5 @@ My best time to think is while running. During my 5 mile run today during lunch,
 
 ![Image of Prototype / Proof of Concept](https://richgabrielli.github.io/images/HealthKit-Proto.jpg)
 
-**Thoughts:**
+**Thoughts:**:
+  HealthKit is complicated and privacy is a really big deal, which is a good thing. This is going to be fun!

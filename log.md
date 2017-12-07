@@ -39,7 +39,7 @@ My best time to think is while running. During my 5 mile run today during lunch,
   **Today's Progress**:
       * Accomplished the plan. Did not do any design work.
 
-  ![HealtkKit Data Presentation in TableView](https://richgabrielli.github.io/images/HealthKit-Proto2.jpg)
+  ![HealtkKit Data Presentation in TableView](https://richgabrielli.github.io/images/HealthKit-Proto3.jpg)
 
   **Thoughts:**:
     Tomorrows goal is to pull out exercise related data.

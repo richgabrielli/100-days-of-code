@@ -29,7 +29,7 @@ My best time to think is while running. During my 5 mile run today during lunch,
 **Thoughts:**:
   HealthKit is complicated and privacy is a really big deal, which is a good thing. This is going to be fun!
 
-  ### Day 2: December 6, 2017
+### Day 2: December 6, 2017
 
   **Today's Plan**:
       * Take raw HealthKit data and manipulate it to a TableView

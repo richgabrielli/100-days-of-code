@@ -43,3 +43,19 @@ My best time to think is while running. During my 5 mile run today during lunch,
 
   **Thoughts:**:
     Tomorrows goal is to pull out exercise related data.
+
+### Day 3: December 7, 2017
+
+  **Today's Plan**:
+    * Pull workout data from HealthKit.
+    * Design app front end - Not part of 100 hours.
+
+  **Today's Progress**:
+    * Accomplished the plan. Pulled the .Running Workouts.
+    * Did not do any design work.
+    * Learned that a lot of the sample type data that is part of the workout (heart rate, VO2 max, etc), it not stored with the workout. Workout has basic info (which I have accessed), but need to pull ancillary data by using the workout as the predicate...
+
+![HealtkKit Workout  TableView](https://richgabrielli.github.io/images/HealthKit-Proto3.1.jpg)
+
+  **Thoughts:**:
+    * Tomorrows goal is to pull out exercise related data.

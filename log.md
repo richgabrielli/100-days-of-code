@@ -75,4 +75,4 @@ My best time to think is while running. During my 5 mile run today during lunch,
 ![HealtkKit Workout  TableView with Avg Heart Rate](https://richgabrielli.github.io/images/HealthKit-Proto4.jpg)
 
     **Thoughts:**:
-      * Tomorrows goal: clean up all the proof of concept code and refactor to Swift best practices.
+      * Tomorrow's goals: clean up all the proof of concept code and refactor to Swift best practices. Also, create and implement a workout data model.

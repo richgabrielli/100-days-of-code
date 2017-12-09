@@ -59,3 +59,20 @@ My best time to think is while running. During my 5 mile run today during lunch,
 
   **Thoughts:**:
     * Tomorrows goal is to pull out exercise related data.
+
+### Day 4: December 8, 2017
+
+    **Today's Plan**:
+      * Pull workout related data from HealthKit.
+      * Design app front end - Not part of 100 hours.
+
+    **Today's Progress**:
+      * Pulled all the heart rate data for al of the .Running Workouts.
+      * Performed the statistical predicate for the average heart rates for each workout.
+      * Became much more familiar with the completion handlers (closures) for asynchronous data access.
+      * Did not do any design work.
+
+![HealtkKit Workout  TableView with Avg Heart Rate](https://richgabrielli.github.io/images/HealthKit-Proto4.jpg)
+
+    **Thoughts:**:
+      * Tomorrows goal: clean up all the proof of concept code and refactor to Swift best practices.

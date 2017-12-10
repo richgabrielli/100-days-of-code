@@ -76,3 +76,12 @@ My best time to think is while running. During my 5 mile run today during lunch,
 
     **Thoughts:**:
       * Tomorrow's goals: clean up all the proof of concept code and refactor to Swift best practices. Also, create and implement a workout data model.
+
+### Day 5: December 9, 2017
+
+**Today's Progress**:
+* Refactored proof of concept code using HealthKit best practices and MVC model.
+* Focused on the M of MVC. Built a Profile model to hold the users profile data (height, sex, etc)
+
+**Thoughts:**:
+* Continue model work. Completing Profile and start an Exercise model. May be an opportunity to create a base class (Exercise) and use inheritance for the subs (Swim, Bike Run)?

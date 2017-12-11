@@ -85,3 +85,11 @@ HealthKit is complicated and privacy is a really big deal, which is a good thing
 
 **Thoughts:**:
 * Continue model work. Completing Profile and start an Exercise model. May be an opportunity to create a base class (Exercise) and use inheritance for the subs (Swim, Bike Run)?
+
+### Day 6: December 10, 2017
+
+**Today's Progress**:
+* Focused on the M of MVC. Started to build / understand an Exercise Class for HealthKit.
+
+**Thoughts:**:
+* Pro: HealthKit has a tremendous amount of data capabilities and flexibility...Con: HealthKit has a tremendous amount of data capabilities and flexibility!

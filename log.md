@@ -93,3 +93,15 @@ HealthKit is complicated and privacy is a really big deal, which is a good thing
 
 **Thoughts:**:
 * Pro: HealthKit has a tremendous amount of data capabilities and flexibility...Con: HealthKit has a tremendous amount of data capabilities and flexibility!
+
+### Day 7: December 11, 2017
+
+**Today's Progress**:
+* Focused on the M of MVC. Completed exercise model that I am going to use and all the init.
+
+### Day 8: December 12, 2017
+
+**Today's Progress**:
+* Made all changes to Proof of Concept incorporating the Exercise model.
+* Streamlined HeartRate average in model. Changed predicate from workout to workout.startdate and workout.enddate.
+* Tried to get VO2Max out using the same type of Statistical Query. No Luck. Should be straight forward: same as HR, but with Type .vo2max

@@ -105,3 +105,9 @@ HealthKit is complicated and privacy is a really big deal, which is a good thing
 * Made all changes to Proof of Concept incorporating the Exercise model.
 * Streamlined HeartRate average in model. Changed predicate from workout to workout.startdate and workout.enddate.
 * Tried to get VO2Max out using the same type of Statistical Query. No Luck. Should be straight forward: same as HR, but with Type .vo2max
+
+### Day 9: December 13, 2017
+
+**Today's Progress**:
+* Continued to try and get VO2Max out. No Luck at all. No errors, just nil results. Should be straight forward. Not a lot online. Watched Apple talk introducing vo2max, but nothing.
+* Refactored sample function to allow passing a sample type and returning the value. Much more efficient.

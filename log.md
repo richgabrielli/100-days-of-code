@@ -111,3 +111,17 @@ HealthKit is complicated and privacy is a really big deal, which is a good thing
 **Today's Progress**:
 * Continued to try and get VO2Max out. No Luck at all. No errors, just nil results. Should be straight forward. Not a lot online. Watched Apple talk introducing vo2max, but nothing.
 * Refactored sample function to allow passing a sample type and returning the value. Much more efficient.
+
+### Day 10: December 14, 2017
+
+**Today's Progress**:
+* Continued to try and get VO2Max out. Banging my head up against the wall!!!
+* Posted a question on iOS Slack.
+
+### Day 11: December 15, 2017
+
+**Today's Progress**:
+* Continued to try and get VO2Max out. Banging my head up against the wall!!!
+* No responses on iOS Slack.
+* Gave up... While brushing my teeth before bed a light bulb went off. Fired up my Mac and voila!!! VO2Max EVERYWHERE!!!
+  * Resolution: VERY simple fix: VO2Max was not authorized as a valid parameter. I will never forget that again.

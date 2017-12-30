@@ -124,4 +124,20 @@ HealthKit is complicated and privacy is a really big deal, which is a good thing
 * Continued to try and get VO2Max out. Banging my head up against the wall!!!
 * No responses on iOS Slack.
 * Gave up... While brushing my teeth before bed a light bulb went off. Fired up my Mac and voila!!! VO2Max EVERYWHERE!!!
-  * Resolution: VERY simple fix: VO2Max was not authorized as a valid parameter. I will never forget that again.
+* Resolution: VERY simple fix: VO2Max was not authorized as a valid parameter. I will never forget that again.
+
+### Day 12 - 16: December 16 - 30, 2017
+
+**Today's Progress:**
+* First: Where have I been the past 15 days? Son's knee surgery, holiday stuff, life... I worked a total of 5 hours during this time on the proof of concept. For all intents and purpose the POC is done:
+* Reading data from HealthKit
+* Built Weight / BMI history screen.
+* Write weight and BMI (calculated) data to HealthKit.
+
+* I could keep going on the POC, with cleanup and refactoring, but i am ready to move onto to the app and build it for real. This includes a pretty design and tight code.
+
+**Lessons Learned:**
+* First: Where have I been the past 15 days? Son's knee surgery, holiday
+* Ability to read / write data from / to HealthKit
+* Design HealthKit class.
+* Design HealthKit data model for profile.

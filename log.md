@@ -126,7 +126,7 @@ HealthKit is complicated and privacy is a really big deal, which is a good thing
 * Gave up... While brushing my teeth before bed a light bulb went off. Fired up my Mac and voila!!! VO2Max EVERYWHERE!!!
 * Resolution: VERY simple fix: VO2Max was not authorized as a valid parameter. I will never forget that again.
 
-### Day 12 - 16: December 16 - 30, 2017
+### Day 12 - 16: December 16 - 29, 2017
 
 **Today's Progress:**
 * First: Where have I been the past 15 days? Son's knee surgery, holiday stuff, life... I worked a total of 5 hours during this time on the proof of concept. For all intents and purpose the POC is done:
